@@ -24,7 +24,7 @@ Our only changes are limiting `MAX_SOCK_NUM` to 2, and uncommenting `#define ETH
 
 
 ## How to use HTTPS with Wiznet W5500
-[W5500 Plain HTTP and SSL HTTPS](https://mischianti.org/esp32-ethernet-w5500-with-plain-http-and-ssl-https/)
+[W5500 Plain HTTP and SSL HTTPS](https://mischianti.org/esp32-ethernet-w5500-with-plain-http-and-ssl-https/)  
 [x509 SSL Verification Engine - used to generate 'trust-anchor.h'](https://mischianti.org/online-bearssl-certificate-trust-anchor-retriever-for-minimal-x509-verification-engine/)
 
 
